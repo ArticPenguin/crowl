@@ -1,0 +1,138 @@
+[
+    {
+        "store_name": "통큰감자탕 건대본점",
+        "category": "감자탕",
+        "new_open": "",
+        "rating": "별점 4.52",
+        "visited_review": "방문자 리뷰 1,005",
+        "blog_review": "블로그 리뷰 434",
+        "store_id": "1794801378",
+        "address": "서울 광진구 광나루로26길 16 1층 통큰감자탕",
+        "business_hours": [
+            "수\n11:00 - 22:00\n19:00 라스트오더",
+            "목\n정기휴무 (매주 목요일)",
+            "금\n11:00 - 22:00\n19:00 라스트오더",
+            "토\n11:00 - 22:00\n19:00 라스트오더",
+            "일\n11:00 - 22:00\n19:00 라스트오더",
+            "월\n11:00 - 22:00\n19:00 라스트오더",
+            "화\n11:00 - 22:00\n19:00 라스트오더"
+        ],
+        "phone_num": "0507-1404-8328",
+        "menus": [
+            [
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "숙주감자탕대표",
+                    "menu_desc": "",
+                    "menu_price": "30,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_153/1715934782937AGg6a_JPEG/KakaoTalk_20240517_131103037.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\숙주감자탕대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "숙주콩비지감자탕매운맛1단계대표",
+                    "menu_desc": "",
+                    "menu_price": "35,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_39/1715934536081b5thC_JPEG/1689175303832.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\숙주콩비지감자탕매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "우거지뼈해장국매운맛1단계대표",
+                    "menu_desc": "",
+                    "menu_price": "10,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_22/1715934570560eTXeC_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%287%29.jpeg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\우거지뼈해장국매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "묵은지뼈해장국매운맛1단계대표",
+                    "menu_desc": "",
+                    "menu_price": "11,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_283/171593459252906J4S_JPEG/KakaoTalk_20240517_131054635_04.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\묵은지뼈해장국매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "묵은지감자탕(소)매운맛1단계대표",
+                    "menu_desc": "진한김치찌개맛 감자탕입니다",
+                    "menu_price": "32,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_65/1715934835830fmIyy_JPEG/KakaoTalk_20240517_131054635_01.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\묵은지감자탕(소)매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "숙주콩비지감자탕매운맛1단계대표",
+                    "menu_desc": "",
+                    "menu_price": "35,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_39/1715934536081b5thC_JPEG/1689175303832.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\숙주콩비지감자탕매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "숙주감자탕대표",
+                    "menu_desc": "",
+                    "menu_price": "30,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_153/1715934782937AGg6a_JPEG/KakaoTalk_20240517_131103037.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\숙주감자탕대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "묵은지감자탕(소)매운맛1단계대표",
+                    "menu_desc": "진한김치찌개맛 감자탕입니다",
+                    "menu_price": "32,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_65/1715934835830fmIyy_JPEG/KakaoTalk_20240517_131054635_01.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\묵은지감자탕(소)매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "묵은지뼈해장국매운맛1단계대표",
+                    "menu_desc": "",
+                    "menu_price": "11,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_283/171593459252906J4S_JPEG/KakaoTalk_20240517_131054635_04.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\묵은지뼈해장국매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "우거지뼈해장국매운맛1단계대표",
+                    "menu_desc": "",
+                    "menu_price": "10,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_22/1715934570560eTXeC_JPEG/%B4%D9%BF%EE%B7%CE%B5%E5_%287%29.jpeg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\우거지뼈해장국매운맛1단계대표.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "김치왕만두(6)",
+                    "menu_desc": "",
+                    "menu_price": "8,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_140/1715934662634XmiQz_JPEG/KakaoTalk_20240517_133413896_01.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\김치왕만두(6).jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "고기왕만두(6)",
+                    "menu_desc": "",
+                    "menu_price": "8,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_284/1715934608026WCaLo_JPEG/KakaoTalk_20240517_133413896.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\고기왕만두(6).jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "라면사리",
+                    "menu_desc": "",
+                    "menu_price": "2,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_215/1715936205044H09vE_JPEG/KakaoTalk_20240517_131054635_02.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\라면사리.jpg"
+                },
+                {
+                    "menu_section": "네이버주문",
+                    "menu_name": "수제비",
+                    "menu_desc": "",
+                    "menu_price": "2,000원",
+                    "menu_image_url": "https://naverbooking-phinf.pstatic.net/20240517_86/1715934688682hLeaS_JPEG/KakaoTalk_20240517_131103037_01.jpg?type=f220_220_60_sharpen",
+                    "menu_image_local_path": "./data/images/1-통큰감자탕 건대본점-1794801378\\수제비.jpg"
+                }
+            ]
+        ]
+    }
+]
